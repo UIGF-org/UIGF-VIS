@@ -4,7 +4,7 @@
    height="78"
    version="1.1"
    id="svg1"
-   sodipodi:docname="uigf.svg"
+   sodipodi:docname="uigf-full.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -56,11 +56,11 @@
     <path
        id="ORG.O"
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="M 1,0.8 V 7.2 H 6.4 V 0.8 Z M 2.2,2 v 4 h 3 V 2 Z" />
+       d="m -4.9533316,0.8 v 6.4 h 5.4 V 0.8 Z M -3.7533314,2 v 4 h 2.99999992 V 2 Z" />
     <path
        id="ORG.R"
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="M 7.9,0.8 V 7.2 H 9.1 V 4.6 h 0.4 l 2.2,2.6 h 1.5 L 11.1,4.6 h 2.1 V 0.8 M 9.1,2 v 1.4 h 2.8 V 2" />
+       d="m 5.0501682,0.8 v 6.4 h 1.2 V 4.6 h 0.4 L 8.8501707,7.2 H 10.350177 L 8.2501712,4.6 H 10.350177 V 0.8 M 6.2501682,2 V 3.4 H 9.050172 V 2" />
     <polygon
        id="ORG.G"
        style="fill:#000000;fill-opacity:1;stroke:none"
